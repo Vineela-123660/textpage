@@ -1,1 +1,33 @@
-{"v1":"300","v10":"800","v11":"986","v12":"1212","v2":"200","v3":"400","v4":"195.9","v5":"45","v6":"584","v7":"700.9","v8":"41.88","v9":"210"}
+{
+  "device_id": "KarnatakaState",	// or any district name (from dropdown)
+  "timestamp": "2025-10-12T18:54:31.603181Z",
+  "esp32_ip": "192.168.1.60",
+  "brightness": 7,
+  "modules": [
+    {
+      "scheme": "Shakti",
+      "total_grant": "1122334456",
+      "beneficiaries": "1234567890"
+    },
+    {
+      "scheme": "Anna Bhagya",
+      "total_grant": "3333333333",
+      "beneficiaries": "4444444444"
+    },
+    {
+      "scheme": "Gruha Jyoti",
+      "total_grant": "5555555555",
+      "beneficiaries": "6666666666"
+    },
+    {
+      "scheme": "Gruha Luck",
+      "total_grant": "7777777777",
+      "beneficiaries": "8888888888"
+    },
+    {
+      "scheme": "Yuva Nidhi",
+      "total_grant": "9999999999",
+      "beneficiaries": "0000000000"
+    }
+  ]
+}
