@@ -1,1 +1,1 @@
-{"setwifi?ssid=Boddukolugopi&pass=abcdefgh"}
+{"setwifi,?ssid=Boddukolugopi&pass=abcdefgh"}
