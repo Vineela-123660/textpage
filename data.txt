@@ -1,1 +1,1 @@
-{"ssid=iPhone&pass=123456789"}
+{"ssid=Boddukolugopi&pass=abcdefgh"}
